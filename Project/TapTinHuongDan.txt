@@ -1,0 +1,18 @@
+MÃ LỚP HỌC PHẦN: 2231112005702
+SINH VIÊN THỰC HIỆN: 2021010180 - NGUYỄN THỊ KIM KIỀU 
+TÊN ĐỀ TÀI: XÂY DỰNG WEBSITE BÁN SÁCH ONLINE
+
+CÁCH BƯỚC THỰC HIỆN 
+Bước 1: Tải về và giải nén file có tên: 5701_2021010180_NguyenThiKimKieu
+Bước 2: Khởi chạy Xampp Control Panel trong máy bạn (Lưu ý: Bạn phải cài đặt Xampp Control Paneltrước)
+Bước 3: Coppy thư mục Website bỏ vào file htdocs trong Xampp Control Panel
+Bước 4: Tại Actions, bạn start Apache và MySQL lên
+Bước 4: Tại MySQL, bạn chọn Admin. Sau đó, tạo database trên PHPMyAdmin (Các bước tạo Database trên PHPMyAdmin bạn vui lòng tự tìm hiểu)
+Bước 5 Truy cập vài localhost (Link localhost: http://localhost/dashboard/), thay "dashboard" bằng đường dẫn đến thư mục mà bạn đã tại ở bước 2.
+Bước 6: Đăng nhập bằng các tài khoản được cung cấp
+		Tài khoản Admin: username: kimkieu
+				 password: 0000
+
+		Tài khoản username: username: hoangnhat
+				    mật khẩu: 0000
+Bước 7: Thao tác lựa chọn các chức năng cần thiết
